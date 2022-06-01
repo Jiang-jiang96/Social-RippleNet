@@ -2,6 +2,9 @@
 
 ## Social-RippleNet: Jointly Modeling of Ripple Net and Social Information for Recommendation
 
+This is our implementation for the paper:
+
+Jiang, W., Sun, Y. Social-RippleNet: Jointly modeling of ripple net and social information for recommendation. Appl Intell (2022). https://doi.org/10.1007/s10489-022-03620-2
 
 Social-RippleNet consists of user modeling, item modeling, and rating prediction. 
 
@@ -18,7 +21,15 @@ The code is modified on the basis of Ripple Net and GraphRec:
   - For the authors' official TensorFlow implementation, see [hwwang55/RippleNet](https://github.com/hwwang55/RippleNet).
   - GraphRec Author: Wenqi Fan (https://wenqifan03.github.io, email: wenqifan03@gmail.com)
 
-
+If you use this code, please cite our paper:
+```
+@inproceedings{jiang2022social,
+  title={Social-RippleNet: Jointly modeling of ripple net and social information for recommendation},
+  author={Jiang, Wenbo and Sun, Yanrui},
+  booktitle={Applied Intelligence},
+  year={2022},
+}
+```
 
 ### Files in the folder
 
